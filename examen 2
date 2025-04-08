@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Ejemplo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <h1>Bienvenidos a la Tienda de Computadoras</h1>
+        <p>Proveedor: ComputoMax</p>
+    </header>
+
+    <!-- Sección con dos artículos -->
+    <section>
+        <article class="article1">
+            <h2>Articulo 1</h2>
+            <p>Este es un artículo de ejemplo con un fondo de color.</p>
+        </article>
+        <article class="article2">
+            <h2>Articulo 2</h2>
+            <p>Este es un artículo con un fondo con imagen.</p>
+        </article>
+    </section>
+
+    <!-- Enlaces a sitios de interés -->
+    <section>
+        <h3>Sitios de interés</h3>
+        <ul>
+            <li><a href="https://www.google.com" target="_blank">Google</a></li>
+            <li><a href="https://www.wikipedia.org" target="_blank">Wikipedia</a></li>
+            <li><a href="https://www.stackoverflow.com" target="_blank">Stack Overflow</a></li>
+            <li><a href="https://www.github.com" target="_blank">GitHub</a></li>
+            <li><a href="https://www.mozilla.org" target="_blank">Mozilla</a></li>
+
